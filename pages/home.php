@@ -24,4 +24,4 @@ kaart brengen en de resultaten daarvan aanbieden aan de minister van Sociale Zak
 Of niet, we zien wel.
 </p>
 
-<h1 style="text-align: right;"><a href="?page=melden">Meld uw verhaal hier</a></h1>
+<h1 style="text-align: right;"><a href="/melden">Meld uw verhaal hier</a></h1>

@@ -33,7 +33,7 @@ foreach($captureFields as $fieldName) {
 
 $stmt->execute($fields);
 
-header('Location: ?page=dank');
+header('Location: /dank');
 die();
 
 ?>
