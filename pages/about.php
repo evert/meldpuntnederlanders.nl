@@ -13,7 +13,7 @@ Via deze website kunnen Nederlanders meldingen doen van situaties waar mensen ui
 </p>
 
 <p>
-Het 'demoniseren' (shit, is hier niet een ander woord voor?) van één bevolkingsgroep is iets wat ons erg tegen staat. Als er inderdaad sprake is van een hogere criminaliteit onder bevolkingsgroepen van deze 'MOE'-landen, dan moet er een betere manier zijn om dat te onderzoeken dan een publieke enquete die onder andere vraagt of er wel eens sprake is geweest van een situatie met een dronken pool. 
+Het zwart maken van één bevolkingsgroep is iets wat ons erg tegen staat. Als er inderdaad sprake is van een hogere criminaliteit onder bevolkingsgroepen van deze 'MOE'-landen, dan moet er een betere manier zijn om dat te onderzoeken dan een publieke enquete die onder andere vraagt of er wel eens sprake is geweest van een situatie met een dronken pool. 
 </p>
 
 <p>
