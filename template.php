@@ -71,7 +71,7 @@
       <div id="rightcol">
         <p><img style="float: left;"  src="assets/images/SH.png" ></p>
         <p><img style="margin-top: 25px;" src="assets/images/WW.png" ></p>
-        <p><a target="_blank" href="http://www.twitter.com/meldpunt_NL/">@meldpunt_NL</a><br><a href="http://www.facebook.com/meldpunt_NL/" target="_blank">facebook.com/meldpunt_NL</a></p>
+        <p><a target="_blank" href="http://www.twitter.com/meldpunt_NL/">@meldpunt_NL</a><br><a href="http://www.facebook.com/meldpuntNL/" target="_blank">facebook.com/meldpuntNL</a></p>
       </div>
 
       <div class="clr"></div>
