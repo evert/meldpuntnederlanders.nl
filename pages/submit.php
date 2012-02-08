@@ -20,8 +20,8 @@ $captureFields = array(
 
 $query = "INSERT INTO yourmom (created, " . implode(',', $captureFields) . ') VALUES (NOW(), :' . implode(', :', $captureFields) . ')';
 
-$pdo = new PDO('mysql:' . MYSQL_HOST . ';dname=' . MYSQL_NAME, MYSQL_USER, MYSQL_PASS);
-$pdo->prepare($query);
+$pdo = new PDO('mysql:host=' . MYSQL_HOST . ';dbname=' . MYSQL_NAME, MYSQL_USER, MYSQL_PASS);
+$stmt = $pdo->prepare($query);
 
 $fields = array();
 
@@ -30,7 +30,7 @@ foreach($captureFields as $fieldName) {
 }
 
 
-$pdo->execute($fields);
+$stmt->execute($fields);
 
 header('Location: ?page=dank');
 die();

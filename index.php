@@ -9,9 +9,11 @@ ob_start();
 switch($page) {
     case 'home' :
     case 'melden' :
+    case 'dank' : 
     case 'submit' :
         include 'pages/'.$page.'.php';
         break;
+
 }
 
 $content = ob_get_clean();
