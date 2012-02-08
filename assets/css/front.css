@@ -19,6 +19,14 @@
 	overflow: auto;
 }
 
+textarea, input[type=text], input[type=email] {
+    border: 1px solid #ccc;
+}
+
+.rsform-block td {
+    padding: 5px;
+}
+
 .formClr {
 	clear:both;
 	display: block;
@@ -100,3 +108,4 @@ div.calheader{
 	background: green;
 	margin: 0px !important;
 }
+

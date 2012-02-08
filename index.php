@@ -8,6 +8,9 @@ switch($page) {
     case 'home' :
         include 'pages/home.php';
         break;
+    case 'melden' :
+        include 'pages/melden.php';
+        break;
 }
 
 $content = ob_get_clean();

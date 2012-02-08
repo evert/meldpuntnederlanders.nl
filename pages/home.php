@@ -8,4 +8,4 @@
 
 <p>Heeft u overlast van MOE-landers? Of bent u uw baan kwijtgeraakt aan een Pool, Bulgaar, Roemeen of andere Midden- of Oost Europeaan? Wij willen het graag horen. De Partij voor de Vrijheid biedt u op deze website een platform om uw klachten te melden. Deze klachten zullen wij in kaart brengen en de resultaten daarvan aanbieden aan de minister van Sociale Zaken en Werkgelegenheid.</p>
 
-<h1 style="text-align: right;"><a href="/melden">Meld uw verhaal hier</a></h1>
+<h1 style="text-align: right;"><a href="?page=melden">Meld uw verhaal hier</a></h1>
