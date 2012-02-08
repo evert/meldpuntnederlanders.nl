@@ -6,10 +6,9 @@ ob_start();
 
 switch($page) {
     case 'home' :
-        include 'pages/home.php';
-        break;
     case 'melden' :
-        include 'pages/melden.php';
+    case 'submit' :
+        include 'pages/'.$page.'.php';
         break;
 }
 
