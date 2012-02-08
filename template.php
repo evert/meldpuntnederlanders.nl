@@ -69,8 +69,8 @@
 
       </div>
       <div id="rightcol">
-        <p><img style="float: left;"  src="assets/images/visual-gw-2.jpg" height="142" width="199"></p>
-        <p><img style="margin-top: 25px;" src="assets/images/visual-ino-2.jpg" height="142" width="199"></p>
+        <p><img style="float: left;"  src="assets/images/SH.png" ></p>
+        <p><img style="margin-top: 25px;" src="assets/images/WW.png" ></p>
         <p><a target="_blank" href="http://www.twitter.com/meldpunt_NL/">@meldpunt_NL</a><br><a href="http://www.facebook.com/meldpunt_NL/" target="_blank">facebook.com/meldpunt_NL</a></p>
       </div>
 
