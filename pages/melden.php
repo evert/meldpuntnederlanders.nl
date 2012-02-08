@@ -78,6 +78,22 @@
     </tr>
 
     <tr class="rsform-block">
+        <td colspan="2">Is er sprake van hufterig- of kortzichtigheid? (*)</td>
+    </tr>
+    <tr class="rsform-block">
+        <td>
+            <input  name="douchebag" type="radio" value="yes" id="douchebag_yes" />
+            <label for="douchebag_yes">ja</label>
+
+            <input  name="douchebag" type="radio" value="no" id="douchebag_no" />
+            <label for="douchebag_no">nee</label>
+
+            <div class="formClr"></div><span  class="formNoError">Maak een keuze</span></td>
+
+        <td></td>
+    </tr>
+
+    <tr class="rsform-block">
         <td>Anders</td>
 
         <td><input type="text" name="otherissues" id="otherissues" /><div class="formClr"></div><span  class="formNoError">Invalid Input</span></td>

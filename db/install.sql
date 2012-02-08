@@ -9,6 +9,7 @@ CREATE TABLE yourmom (
     intolerance VARCHAR(3),
     respect VARCHAR(3),
     generalizing VARCHAR(3),
+    douchebag VARCHAR(3),
     
     otherissues TEXT,
     clarification TEXT,

@@ -12,6 +12,7 @@ $captureFields = array(
     'intolerance',
     'respect',
     'generalizing',
+    'douchebag',
 
     'otherissues',
     'clarification',
