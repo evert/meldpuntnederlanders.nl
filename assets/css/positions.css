@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.moduletable {
+	margin-bottom 	: 20px;
+}
+
+.commentBlogView a {
+	font-size		: 130%;
+}
+
+#rightcol a {
+	font-size 		: 130%;
+	padding 		: 0 0 0 10px;
+	background 		: url(../images/triangle.png) no-repeat left center;
+}
+
+.jomentry1 span.small,
+.jomentry2 span.small,
+.small {
+	display			: block;
+	font-size		: 9px;
+	text-align		: right;
+	}

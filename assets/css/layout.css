@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+#outerwrapper {
+	position 		: relative;
+	margin 			: auto;
+	margin-top 		: 28px;
+	width 			: 994px;
+	background 		: #fff url(../images/middle24.png) -29px 100px;
+}
+
+#topwrapper {
+	position 		: relative;
+	margin 			: auto;
+	width 			: 994px;
+
+}
+
+#bottomwrapper {
+	position 		: relative;
+	margin 			: auto;
+	width 			: 994px;
+	padding 		: 0 10px 18px 10px;
+}
+
+#logo {
+        float                   : left;
+        width                   : 968px;
+        height                  : 45px;
+        padding                 : 20px 0 0 10px;
+        background              : #fff;
+}
+
+#header {
+	width 			: 942px;
+	height 			: 217px;
+	padding 		: 18px;
+	background		: #FFF;
+        float                   : left;
+}
+
+#headerinner {
+	float 			: left;
+	width 			: 942px;
+	height			: 217px;
+}
+
+#content {
+	float 			: left;
+	width 			: 686px;
+	padding 		: 20px;
+}
+
+#rightcol {
+	float 			: left;
+	width 			: 167px;
+	padding 		: 20px;
+}
