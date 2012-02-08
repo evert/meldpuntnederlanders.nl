@@ -31,7 +31,7 @@
     </tr>
 
     <tr class="rsform-block">
-        <td>Is er sprake van intolerantie tegenover midden- en oost-europeanen? (*)</td>
+        <td colspan="2">Is er sprake van intolerantie tegenover midden- en oost-europeanen? (*)</td>
     </tr>
     <tr class="rsform-block">
         <td>
@@ -46,7 +46,7 @@
         <td></td>
     </tr>
     <tr class="rsform-block">
-        <td>Is er sprake van gebrek aan respect voor andere niet-nederlanders? (*)</td>
+        <td colspan="2">Is er sprake van gebrek aan respect voor andere niet-nederlanders? (*)</td>
     </tr>
     <tr class="rsform-block">
         <td>
@@ -62,7 +62,7 @@
     </tr>
 
     <tr class="rsform-block">
-        <td>Is er sprake van generalisering van bevolkingsgroepen? (*)</td>
+        <td colspan="2">Is er sprake van generalisering van bevolkingsgroepen? (*)</td>
     </tr>
     <tr class="rsform-block">
         <td>
@@ -80,7 +80,7 @@
     <tr class="rsform-block">
         <td>Anders</td>
 
-        <td><input type="text"  uame="otherissues" id="otherissues" /><div class="formClr"></div><span  class="formNoError">Invalid Input</span></td>
+        <td><input type="text" name="otherissues" id="otherissues" /><div class="formClr"></div><span  class="formNoError">Invalid Input</span></td>
         <td></td>
     </tr>
 
