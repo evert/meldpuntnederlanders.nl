@@ -11,6 +11,7 @@ switch($page) {
     case 'melden' :
     case 'dank' : 
     case 'submit' :
+    case 'about' : 
         include 'pages/'.$page.'.php';
         break;
 
