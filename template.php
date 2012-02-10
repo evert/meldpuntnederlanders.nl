@@ -3,7 +3,7 @@
     <meta http-equiv="Content-Type" value="text/html; charset=utf-8" />
 
   <meta name="robots" content="index, follow">
-  <meta name="keywords" content="PVV">
+  <meta name="keywords" content="PVV, meldpunt, nederlanders, hollanders, belgen, europeanen, irritante hollanders">
   <meta name="description" content="PVV">
   <meta name="generator" content="">
   <title>Meldpunt Noord, Midden, Oost, West en Zuid-Nederlanders</title>
