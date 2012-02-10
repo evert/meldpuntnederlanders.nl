@@ -17,7 +17,7 @@ Het zwart maken van één bevolkingsgroep is iets wat ons erg tegen staat. Als e
 </p>
 
 <p>
-Wat voor antwoorden vallen daar nu uit te halen? Hoe vergelijkt dit met dronkenschap en associaal gedrag van limburgers? Wij zijn van mening dat dit statistisch weinig tot niets oplevert, en in eerste instantie alleen bedoeld is om afstand en respectloosheid te creeëren tussen Nederlanders en onze vrienden uit het verre oosten.
+Wat voor antwoorden vallen daar nu uit te halen? Hoe vergelijkt dit met dronkenschap en associaal gedrag van bijvoorbeeld Limburgers, Amsterdammers? of..? Wij zijn van mening dat dit statistisch weinig tot niets oplevert, en in eerste instantie alleen bedoeld is om afstand en respectloosheid te creeëren tussen Nederlanders en onze vrienden uit het verre oosten.
 </p>
 
 <p>
