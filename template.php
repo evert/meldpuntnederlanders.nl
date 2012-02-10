@@ -71,7 +71,10 @@
       <div id="rightcol">
         <p><img style="float: left;"  src="assets/images/SH.png" ></p>
         <p><img style="margin-top: 25px;" src="assets/images/WW.png" ></p>
-        <p><a target="_blank" href="http://www.twitter.com/meldpunt_NL/">@meldpunt_NL</a><br><a href="http://www.facebook.com/meldpuntNL/" target="_blank">facebook.com/meldpuntNL</a></p>
+        <p><a href="https://twitter.com/Meldpunt_NL" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">Follow @Meldpunt_NL</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	<br>
+	<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FMeldpuntNL&amp;send=false&amp;layout=standard&amp;width=199&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=80&amp;appId=129688393026" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:199px; height:80px;" allowTransparency="true"></iframe></p>
       </div>
 
       <div class="clr"></div>
