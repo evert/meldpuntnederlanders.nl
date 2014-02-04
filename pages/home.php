@@ -6,4 +6,4 @@
 <p>De verering van onderbuikgevoelens en angst voor het vreemde leidt tot veel problemen; overlast, belediging, grove generalisaties, respectloosheid en integratie- en medemenselijkheidsproblemen. Voor veel mensen vormen deze zaken een serieus probleem. Klachten worden echter vaak niet gemeld, omdat men het idee heeft dat er toch niets mee wordt gedaan. Of uit angst voor verbale of fysieke agressie. En dat is ons een doorn in het oog.</p>
 <p>Heeft u overlast van bepaalde NMOWZ-landers? Of bent u uw liefde voor het vaderland kwijtgeraakt door toedoen van deze hypocriete en kortzichtige Nederlanders? Wij willen het graag horen. De Partij voor de Blijheid biedt u op deze website een platform om uw klachten te melden. Deze klachten zullen wij in kaart brengen en de resultaten daarvan aanbieden aan de minister van Sociale Zaken en Werkgelegenheid. Of niet, we zien wel.</p>
 
-<h1 style="text-align: right;"><a href="?page=melden">Meld uw verhaal hier</a></h1>
+<h1 style="text-align: right;"><a href="/melden">Meld uw verhaal hier</a></h1>

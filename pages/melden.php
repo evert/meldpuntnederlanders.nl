@@ -7,7 +7,7 @@
 <p>Deze melding kunt u anoniem plaatsen. Alleen (*) zijn verplichte velden om in te vullen.</p>
 <p>
 
-<form method="post"  id="userForm" action="?page=submit">
+<form method="post"  id="userForm" action="/submit">
 
 <div class="componentheading">Melding</div>
 
